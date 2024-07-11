@@ -1,0 +1,101 @@
+/*
+Tabla Periodica Basica
+Autor: Johan RC
+7 de junio de 2024
+*/
+.container{
+    margin-left: 100px;
+    margin-top: 200px;
+}
+.primero{
+    width: 1200px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.celdas{
+    height: 100px;
+    border: 1px black solid;
+    margin: 2px 2px;
+}
+.k{
+    margin-left: 1665px;
+}
+.ke{
+    margin-left: 1041px;
+}
+.vacio{
+    margin-top: 90px;
+    margin-left: 310px;
+}
+.vac{
+    margin-left: 310px;
+}
+.numero{
+    margin-top: -3px;
+    text-align: end;
+    color: aliceblue;
+
+}
+.numero2{
+    margin-top: -40px;
+    text-align:start;
+    color: aliceblue;
+}
+.simbolo{
+text-align: center;
+
+}
+.nombre{
+text-align: center;
+margin-top: -25px;
+color: aliceblue;
+}
+.lN{
+    font: 2.5em sans-serif;
+    color: rgb(255, 255, 255);
+}
+.lB{
+    color: rgb(0, 0, 0);
+}
+.lR{
+    color: rgb(255, 0, 0);
+}
+.lA{
+    color: rgb(0, 204, 255);
+}
+.bor{
+    text-shadow: 3px 3px rgb(255, 255, 255);
+}
+.bord{
+    text-shadow: 3px 3px rgb(0, 0, 0);
+}
+.vio{
+    background-color: rgb(131, 8, 202);
+}
+.nara{
+    background-color: rgb(248, 153, 10);
+}
+.rojo{
+    background-color: rgb(255, 0, 0);
+}
+.rosa{
+    background-color: rgb(255, 105, 180);
+}
+.mora{
+    background-color: rgba(59, 20, 150, 0.801);
+}
+.agua{
+    background-color: rgb(31, 228, 211);
+}
+.ver{
+    background-color: rgb(166, 255, 0);
+}
+.azul{
+    background-color: rgb(0, 153, 255);
+}
+.verd{
+    background-color: rgb(22, 175, 60);
+}
+.ama{
+    background-color: rgb(177, 228, 38);
+}
